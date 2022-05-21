@@ -4,3 +4,6 @@ python -m pip install numpy pandas matplotlib pillow
 
 python main.py
 
+![map2.png](map2.png)
+
+![resultMap.png](resultMap.png)
